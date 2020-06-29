@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29476" started-at="2020-06-24T00:33:45 IST" finished-at="2020-06-24T00:34:15 IST">
+  <suite name="Default suite" duration-ms="17369" started-at="2020-06-30T00:40:22 IST" finished-at="2020-06-30T00:40:39 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29476" started-at="2020-06-24T00:33:45 IST" finished-at="2020-06-24T00:34:15 IST">
+    <test name="Default test" duration-ms="17369" started-at="2020-06-30T00:40:22 IST" finished-at="2020-06-30T00:40:39 IST">
       <class name="TestScripts.TestScripts">
-        <test-method status="PASS" signature="SetUpSuite()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="SetUpSuite" is-config="true" duration-ms="204" started-at="2020-06-24T00:33:45 IST" finished-at="2020-06-24T00:33:45 IST">
+        <test-method status="PASS" signature="SetUpSuite()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="SetUpSuite" is-config="true" duration-ms="171" started-at="2020-06-30T00:40:22 IST" finished-at="2020-06-30T00:40:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpSuite -->
-        <test-method status="PASS" signature="Setup()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="Setup" is-config="true" duration-ms="27331" started-at="2020-06-24T00:33:45 IST" finished-at="2020-06-24T00:34:13 IST">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="Setup" is-config="true" duration-ms="15473" started-at="2020-06-30T00:40:22 IST" finished-at="2020-06-30T00:40:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="TC_01_LaunchAmaszonAndValidateLogo()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="TC_01_LaunchAmaszonAndValidateLogo" duration-ms="441" started-at="2020-06-24T00:34:13 IST" finished-at="2020-06-24T00:34:13 IST">
+        <test-method status="PASS" signature="TC_01_LaunchAmazonAndValidateLogo()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="TC_01_LaunchAmazonAndValidateLogo" duration-ms="520" started-at="2020-06-30T00:40:37 IST" finished-at="2020-06-30T00:40:38 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_01_LaunchAmaszonAndValidateLogo -->
-        <test-method status="PASS" signature="TeardownAfterMethod()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="TeardownAfterMethod" is-config="true" duration-ms="842" started-at="2020-06-24T00:34:13 IST" finished-at="2020-06-24T00:34:14 IST">
+        </test-method> <!-- TC_01_LaunchAmazonAndValidateLogo -->
+        <test-method status="PASS" signature="TeardownAfterMethod()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="TeardownAfterMethod" is-config="true" duration-ms="483" started-at="2020-06-30T00:40:38 IST" finished-at="2020-06-30T00:40:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TeardownAfterMethod -->
-        <test-method status="PASS" signature="Teardown()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="Teardown" is-config="true" duration-ms="808" started-at="2020-06-24T00:34:14 IST" finished-at="2020-06-24T00:34:15 IST">
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:TestScripts.TestScripts@1e4a7dd4]" name="Teardown" is-config="true" duration-ms="815" started-at="2020-06-30T00:40:38 IST" finished-at="2020-06-30T00:40:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
