@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.aventstack.extentreports.ExtentTest;
 
-public class home_amazon_page
+public class home_amazon_page extends TestScripts
 {
 	public WebDriver driver1;
 	//public ExtentTest log;
@@ -25,13 +25,12 @@ public class home_amazon_page
 	By searchicon = By.xpath("//input[@type='submit']");
 	public void ValidateAmazonLogo()
 	{
-	
-	
 		
 		if(driver1.findElement(AmazonLogo).isDisplayed())
 		
 		{
 			System.out.println("Logo displayed");
+			//log.pass("Pass");
 			
 		}
 		else
