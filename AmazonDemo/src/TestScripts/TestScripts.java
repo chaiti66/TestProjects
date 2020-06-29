@@ -19,7 +19,7 @@ public class TestScripts extends TestBase
 		{
 			log=report.createTest("TC_01_LaunchAmazonAndValidateLogo");
 			home_amazon_page homepage = new home_amazon_page(driver1);
-			log.info("Validating first testcase");
+			log.info("ValidateAmazonLogo");
 			homepage.ValidateAmazonLogo();
 			log.pass("Pass");
 			
