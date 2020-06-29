@@ -20,7 +20,7 @@ public class TestBase
 {
 	public WebDriver driver1;
 	public ExtentReports report;
-	public ExtentTest log;
+	
 	
 	@BeforeSuite
 	public void SetUpSuite()
